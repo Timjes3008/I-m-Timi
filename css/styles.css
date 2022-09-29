@@ -1,6 +1,7 @@
 body {
   color: #40514E;
   font-family: 'Merriweather', serif;
+  font-size: 1rem;
   margin: 0;
   text-align: center;
 }
@@ -21,16 +22,19 @@ h2 {
 }
 
 h3 {
+  font-size: 1.17rem;
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
 }
 p {
+  font-size: 1rem;
   line-height: 2;
 }
 
 a {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
   text-decoration: none;
 }
 a:hover {
@@ -108,7 +112,7 @@ hr {
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 1.25rem;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
@@ -126,14 +130,14 @@ hr {
 
 }
 .intro {
+  font-size: 1rem;
   margin: auto;
   width: 30%;
 }
 .contact-message {
+  font-size: 1rem;
   margin: 40px auto 60px;
-}
-.skills {
-  margin-top: 100px;
+
 }
 .copyright {
   color: #EAF6F6;
